@@ -52,4 +52,5 @@
    _"Por favor, crie um arquivo md com uma relação de todos os prompts utilizados neste exercício, incluindo este."_  
 
 
-Sim eu uso "por favor" em todos os prompts.... :-D
+Sim eu uso "por favor" em todos os prompts.... ![image](https://github.com/user-attachments/assets/b8cdb32d-c12e-45db-aef8-dcf3cc24b34e)
+
